@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 Sawatzky J., Souri Y., Grund C., and Gall J., **What Object Should I Use? - Task Driven Object Detection**
 [paper](https://pages.iai.uni-bonn.de/gall_juergen/download/jgall_tasksCOCO_cvpr19.pdf),[supplementary](https://pages.iai.uni-bonn.de/gall_juergen/download/jgall_tasksCOCO_cvpr19_suppl.pdf),[code/data](https://coco-tasks.github.io/),
 CVPR 2019
