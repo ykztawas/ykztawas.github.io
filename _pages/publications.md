@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Sawatzky J., Banerjee D. and Gall J., **Harvesting Information from Captions for Weakly Supervised Semantic Segmentation**
+[paper](https://arxiv.org/abs/1905.06784)
+under review
+
 ![imgCVPR2019](https://pages.iai.uni-bonn.de/gall_juergen/Bilder/taskdetect.png)
 
 Sawatzky J., Souri Y., Grund C., and Gall J., **What Object Should I Use? - Task Driven Object Detection**
